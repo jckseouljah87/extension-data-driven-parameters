@@ -206,6 +206,10 @@ class DataDrivenParameter extends React.Component<any, State> {
         }
     }
 
+
+
+
+
     // Updates the parameter based on selection in Data-Driven Parameter
     public updateParam = (e: any) => {
         const settings = window.tableau.extensions.settings.getAll();

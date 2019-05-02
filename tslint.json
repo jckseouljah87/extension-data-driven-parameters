@@ -3,8 +3,12 @@
   "rules": {
     "quotemark": [true, "single"],
     "interface-name": [true, "never-prefix"],
-    "interface-over-type-literal": false
+    "interface-over-type-literal": false,
+    
+    "prefer-for-of": true
+
 },
+
   "linterOptions": {
     "exclude": [
       "config/**/*.js",
