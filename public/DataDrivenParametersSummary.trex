@@ -4,7 +4,7 @@
     <default-locale>en_US</default-locale>
     <name resource-id="name"/>
     <description>This extension allows you to add a parameter to a Tableau dashboard whose domain is based on your data. Added a new product line? No longer do you need to manually edit the parameter to update it, with this extension your parameter values update automatically! Modified for use by Joshua Kim, Slalom Consultant</description>
-    <author name="Joshua Kim" email="joshua.Kim@slalom.com" organization="Slalom" website="http://www.google.com"/>
+    <author name="Joshua Kim" email="joshua.Kim@slalom.com" organization="Slalom" website="https://www.slalom.com"/>
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>https://jckseouljah87.github.io/extension-data-driven-parameters/#/parameter</url>
