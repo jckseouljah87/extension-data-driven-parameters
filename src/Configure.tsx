@@ -382,6 +382,7 @@ class Configure extends React.Component<any, State> {
             ws_list: [],
         });
         this.populateParamList();
+        alert("cleared");
     }
 
     // Once we have mounted, we call to initialize
