@@ -21,7 +21,7 @@ interface State {
     multiselect: boolean,
 }
 
-const NeedsConfiguring: string = 'Parameter needs configuration';
+const NeedsConfiguring: string = 'Parameter needs to be configured';
 
 function fakeWhiteOverlay(hex: string) {
     const rgb = hexToRgb(hex);

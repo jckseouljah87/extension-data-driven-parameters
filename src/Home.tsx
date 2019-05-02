@@ -8,7 +8,7 @@ class Home extends React.Component<any, any> {
 				<div className='icontainer'>
 					<div className='box'>
 						<div className='left'>
-							<h1 className='iheader'>Data-Driven Parameters | Modified for Warner Bros </h1>
+							<h1 className='iheader'>Data-Driven Parameters</h1>
 							<span className='tagline'>Automatically update your parameters based on your data!</span>
 						</div>
 						<div className='right'>
@@ -25,6 +25,7 @@ class Home extends React.Component<any, any> {
 								<li>Select the field you want to base your parameter on.</li>
 								<li>Optional: Configure your text and background colors.</li>
 								<li>Click 'OK'.</li>
+								<li>For use by Warner Bros Technology</li>
 							</ol>
 							<p><b>Note:</b> You can add as many instances of this extension as you like!</p>
 							<div className='gh'>
